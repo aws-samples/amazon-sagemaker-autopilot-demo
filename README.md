@@ -1,4 +1,14 @@
 # Amazon SageMaker Autopilot - Clasificación Multiclase
+### Versión 1.0.0 
+
+---
+
+© 2020 Amazon Web Services, Inc. y sus filiales. Todos los derechos reservados. Esta obra no puede ser reproducida o redistribuida, en su totalidad o en parte, sin el permiso previo por escrito de Amazon Web Services, Inc. Se prohíbe la copia comercial, préstamo o venta.
+
+¿Errores o correcciones? Envíenos un correo electrónico a [mboaglio@amazon.com](mailto:mboaglio@amazon.com).
+
+---
+
 ## Introducción
 Los archivos del presente repositorio son parte de una demostración de Amazon SageMaker Autopilot realizando una clasificación multiclase. Durante la misma se explican los conceptos de experiment, trial, objective metric, feature engineering e inference pipeline y se repasa el proceso de modelado predictivo de un data scientist (con y sin el beneficio que le aporta SageMaker Autopilot).
 
